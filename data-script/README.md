@@ -1,4 +1,4 @@
-#lua script for seq2seq
+# lua script for seq2seq
 
 a data script for seq2seq data.
 
